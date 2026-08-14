@@ -11,10 +11,12 @@ Registro do maior score da sessão.
 Feedback visual para números muito altos ou muito baixos.
 Reinício da partida sem recarregar a página.
 Mudança de cores ao vencer ou perder.
+
 🛠️ Tecnologias Utilizadas
 HTML5
 CSS3
 JavaScript (Vanilla JS)
+
 🎮 Como Jogar
 Digite um número entre 1 e 20.
 Clique em Check!.
