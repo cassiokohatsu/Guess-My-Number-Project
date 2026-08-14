@@ -23,6 +23,7 @@ Clique em Check!.
 O jogo informará se o número é maior ou menor que o número secreto.
 Cada tentativa errada reduz sua pontuação.
 Ao acertar, você vence e o recorde é atualizado caso a pontuação seja maior.
+
 📂 Estrutura do Projeto
 ├── index.html
 ├── style.css
