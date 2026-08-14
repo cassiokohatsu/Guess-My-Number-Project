@@ -26,7 +26,6 @@ Ao acertar, você vence e o recorde é atualizado caso a pontuação seja maior.
 ├── style.css
 ├── script.js
 └── .prettierrc
-📸 Demonstração
 
 O jogador recebe dicas para encontrar o número correto e tenta alcançar a maior pontuação possível.
 
